@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cross</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Em que posso te ajudar?</string>
+    <string name="speech_not_supported">Seu dispositivo não é suportado.</string>
+    <string name="tap_on_mic">Toque no microfone para falar</string>
+</resources>
